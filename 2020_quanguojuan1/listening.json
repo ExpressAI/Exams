@@ -1,0 +1,267 @@
+[
+  {
+    "name": "第一节",
+    "description": "第一节（共5小题；每小题 1.5分，满分7.5分）\n\n听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关",
+    "question_type": "multiple-choice",
+    "content": [
+      {
+        "context": "M: \"Excuse me, how can I get to the nearest supermarket?\" W: \"It’s on Penny’s Road. Go past the post office, and it’s on your left.\"",
+        "questions": [
+          {
+            "question_id": 1,
+            "question": "Where does the conversation probably take place?",
+            "options": [
+              "In a supermarket.",
+              "In the post office.",
+              "In the street."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "W: \"I don’t know how you did it, Carl. But the TV works beautifully now. You should get a medal for your work.\" M: \"It wasn’t hard at all. It was much easier than preparing for the test.\"",
+        "questions": [
+          {
+            "question_id": 2,
+            "question": "What did Carl do?",
+            "options": [
+              "He designed a medal.",
+              "He fixed a TV set.",
+              "He took a test."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "context": "M: \"Good morning, madam. What can I do for you?\" W: \"Well, the sleeves of this jacket are too long. Can you make them shorter?\" M: \"Let me take a look. OK. I can do it for 20 dollars.\"",
+        "questions": [
+          {
+            "question_id": 3,
+            "question": "What does the man do?",
+            "options": [
+              "He's a tailor.",
+              "He's a waiter.",
+              "He's a shop assistant."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "context": "W: \"Excuse me, could you tell me what time Flight AF35 gets in?\" M: \"Well, it’s due in at 6:20 pm, but the announcement said just now there has a 30-minute delay because of the bad weather.\"",
+        "questions": [
+          {
+            "question_id": 4,
+            "question": "When will the flight arrive?",
+            "options": [
+              "At 18:20.",
+              "At 18:35.",
+              "At 18:50."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "M: \"Miss Miller, could you tell me how I can improve this article? I got B+.\" W: \"It’s quite good actually. The language use is good and the main point is covered. There’s just too much repetition.You could have said everything within two pages.\"",
+        "questions": [
+          {
+            "question_id": 5,
+            "question": "How can the man improve his article?",
+            "options": [
+              "By deleting unnecessary words.",
+              "By adding a couple of points.",
+              "By correcting grammar mistakes."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "第二节",
+    "description": "第二节（共15小题；每小题 1.5分，满分22.5分）\n\n听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+    "question_type": "multiple-choice",
+    "content": [
+      {
+        "context": "W: \"So, Bill, what do you usually do on the weekend?\" M: \"I often go to movies with friends onFriday night. How about you, Sarah?\" W: \"Well, I love seeing musical plays on Broadway with my friends. Have you been to many?\" M: \"Not really. I saw one when I moved to New York and another when my parents came to visit, but not ever since.\" W: \"That’s not very expensive. Maybe we can go together some time.\"",
+        "questions": [
+          {
+            "question_id": 6,
+            "question": "What does Bill often do on Friday night?",
+            "options": [
+              "Visit his parents.",
+              "Go to the movies.",
+              "Walk along Broadway."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 7,
+            "question": "Who watches musical plays most often?",
+            "options": [
+              "Bill.",
+              "Sarah.",
+              "Bill's parents."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "context": "W: \"Hello, Helen Smith speaking. Can I help you?\" M: \"Hello, this is David. Could I speak toMike, please?\" W: \"I’m afraid he’s not available at the moment. Would you leave a message?\" M: \"Yes, I’m calling to cancel the meeting we scheduled for this afternoon.\" W: \"OK. Let me take this down. Could I have your name again?\" M: \"Certainly. It’s David Stone.\"",
+        "questions": [
+          {
+            "question_id": 8,
+            "question": "Why does David want to speak to Mike?",
+            "options": [
+              "To invite him to a party.",
+              "To discuss a schedule.",
+              "To call off a meeting."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 9,
+            "question": "What do we know about the speakers?",
+            "options": [
+              "They are colleagues.",
+              "They are close friends.",
+              "They've never met before."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "W: \"Can I help you, sir?\" M: \"I’d like to buy a camera.\" W: \"Right. We have ordinary cameras, movie cameras and video cameras. They are all digital.\" M: \"Well, I’m thinking of a video camera.\" W: \"Let’s see. How much do you want to spend, sir?\" M: \"Oh, I am not really sure. What is the price?\" W: \"Well, that depends on the model and anything else you want to have with it.\" M: \"I see.\" W: \"How about this one? It has one of the new memory discs and a protected case for filming underwater, so you can take it when you go diving.\" M: \"It doesn’t have auto-focus.\" W: \"No, it doesn’t.\" M: \"That’s OK. The underwater filming is important for me actually. How much is this?\" W: \"It costs 650 euros.\" M: \"Oh, that’s a bit expensive for me. Have you got anything similar but less expensive?\" W: \"Well, here is the sale of the week. It’s excellent for the price, only 170 euros and it includes...\"",
+        "questions": [
+          {
+            "question_id": 10,
+            "question": "What kind of camera does the man want?",
+            "options": [
+              "A TV camera.",
+              "A video camera.",
+              "A movie camera."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 11,
+            "question": "Which function is the man most interested in?",
+            "options": [
+              "Underwater filming.",
+              "A large memory.",
+              "Auto-focus."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 12,
+            "question": "How much would the man pay for the second camera?",
+            "options": [
+              "950 euros.",
+              "650 euros.",
+              "470 euros."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "W: \"A big dog celebrates a big birthday this year. Clifford, the big red dog, first appeared 50 years ago along with Emily Elizabeth, a little girl who loves him. Today, we have Norman Bridwell, to talk with NPR’s reporter on his dog’s 50th birthday. So, Norman, tell us how it all started.\" M: \"Well, it was 1962, and I was a struggling, not very successful artist in New York. My wife suggested that I try my hand at painting for children’s books. So I did ten paintings and took them to publishers. I was turned down everywhere, except at one publisher, where a young woman told me I wasn’t very good. So if I wanted to paint for a book, I’d need to write one on my own.\" W: \"So you did?\" M: \"Umm…the woman pointed to a painting I’d done, of a little girl with a big red dog, and she said, “Maybe that’s a story”. And I went home, and over that weekend I wrote the story Clifford the Big Red Dog, and was shocked when it was accepted for publication, because I’d never written anything before.\" W: \"I see. How wonderful!\" M: \"Yes, it was! My wife was also in shock when she did realize it wasn’t a dream. But, it was just luck.\" W: \"But that luck turned into 90 Clifford books that have sold 126 million copies in 13 languages.\"",
+        "questions": [
+          {
+            "question_id": 13,
+            "question": "Who is Clifford?",
+            "options": [
+              "A little girl.",
+              "The man's pet.",
+              "A fictional character."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 14,
+            "question": "Who suggested that Norman paint for children's books?",
+            "options": [
+              "His wife.",
+              "Elizabeth.",
+              "A publisher."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 15,
+            "question": "What is Norman's story based on?",
+            "options": [
+              "A book.",
+              "A painting.",
+              "A young woman."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 16,
+            "question": "What is it that shocked Norman?",
+            "options": [
+              "His unexpected success.",
+              "His efforts made in vain.",
+              "His editor's disagreement."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "context": "W: \"Hello, everyone. Today I’m going to talk about small talk, that is, short conversations people often have with strangers they meet. Such exchanges occur at bus stops, on buses, while waiting in line, almost anywhere that strangers gather close together. As a matter of fact, these short conversations are a good way for people to say hello and express friendliness. Such conversations usually cover a wide range of topics. The topics may include weather, customer service, movies, TV shows, local sports or latest news. But you should always keep it in your mind that private questions about salaries, family life, religious beliefs and politics should be avoided during these conversations. Besides, it’s better to ask open-ended questions. If you ask visitors, “Do you like our city?” They may say simply, “Yes”. On the other hand, if you ask, “What do you think of our city?” They will have more freedom in answering. This type of question also shows that you are interested in them. If you appear interested in what people are saying, they’d feel more comfortable talking with you.\"",
+        "questions": [
+          {
+            "question_id": 17,
+            "question": "Who would like to make small talk according to the speaker?",
+            "options": [
+              "Relatives.",
+              "Strangers.",
+              "Visitors."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 18,
+            "question": "Why do people have small talk?",
+            "options": [
+              "To express opinions.",
+              "To avoid arguments.",
+              "To show friendliness."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 19,
+            "question": "Which of the following is a frequent topic in small talk?",
+            "options": [
+              "Polices.",
+              "Movies.",
+              "Salaries."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 20,
+            "question": "What does the speaker recommend at the end of his lecture?",
+            "options": [
+              "Asking open-ended questions.",
+              "Felling free to change topics.",
+              "Making small talk interesting."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  }
+]
+

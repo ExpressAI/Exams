@@ -1,0 +1,251 @@
+[
+  {
+    "name": "第一节",
+    "description": "第一节（共15小题；每小题 1分，满分15分）\n\n阅读下面短文，从每题所给的A、B、C、D四个选项中选出可以填入空白处的最佳选项。",
+    "question_type": "independent-cloze-choice",
+    "content": [
+      {
+        "context": "My life as a tax-paying employed person began in middle school, when, for three whole days, I worked in a baking factory. My best friend Betsy’s father was a manager at Hough Bakeries, which, at Easter time, <Q41> little bunny cakes for all its <Q42> throughout Cleveland. It happened that the plant downtown needed eight kids for <Q43> help during our spring break, for which I had no <Q44> beyond listening to my favorite records. I'd 45 minimum wage. I'd see how a factory <Q46>. My parents thought all of this was a grand idea and called Betsy's dad with their <Q47>.\n\nOur <Q48> in the factory were simple: Place cakes on a moving belt. Attach icing ears. Apply icing eyes and nose. <Q49> bunny from the belt. This was <Q50> than it sounds. <Q51> a bit and the cakes pile up. As I told my parents at dinner that first night, it was all a little more high-pressure than I’d <Q52>.\n\nDad <Q53>. The son of a grocer, he’d spent the summers of his childhood <Q54> food in Benardsville, New Jersey. This was the sort of work that made you <Q55> the dollars you earned and respect those who did the work, he told me.",
+        "questions": [
+          {
+            "question_id": 41,
+            "question_mark": "<Q41>",
+            "options": [
+              "sold",
+              "ordered",
+              "made",
+              "reserved"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 42,
+            "question_mark": "<Q42>",
+            "options": [
+              "stores",
+              "families",
+              "schools",
+              "citizens"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 43,
+            "question_mark": "<Q43>",
+            "options": [
+              "generous",
+              "financial",
+              "technical",
+              "temporary"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 44,
+            "question_mark": "<Q44>",
+            "options": [
+              "plans",
+              "problems",
+              "excuses",
+              "hobbies"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 45,
+            "question_mark": "<Q45>",
+            "options": [
+              "offer",
+              "earn",
+              "set",
+              "suggest"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 46,
+            "question_mark": "<Q46>",
+            "options": [
+              "worked",
+              "closed",
+              "developed",
+              "survived"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 47,
+            "question_mark": "<Q47>",
+            "options": [
+              "ambition",
+              "permission",
+              "experience",
+              "invitation"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 48,
+            "question_mark": "<Q48>",
+            "options": [
+              "joys",
+              "ideas",
+              "roles",
+              "choices"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 49,
+            "question_mark": "<Q49>",
+            "options": [
+              "Save",
+              "Keep",
+              "Stop",
+              "Remove"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 50,
+            "question_mark": "<Q50>",
+            "options": [
+              "harder",
+              "better",
+              "longer",
+              "cheaper"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 51,
+            "question_mark": "<Q51>",
+            "options": [
+              "Calm down",
+              "Slow down",
+              "Stay on",
+              "Move on"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 52,
+            "question_mark": "<Q52>",
+            "options": [
+              "indicated",
+              "witnessed",
+              "expected",
+              "remembered"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 53,
+            "question_mark": "<Q53>",
+            "options": [
+              "cried",
+              "smiled",
+              "hesitated",
+              "refused"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 54,
+            "question_mark": "<Q54>",
+            "options": [
+              "tasting",
+              "finding",
+              "sharing",
+              "delivering"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 55,
+            "question_mark": "<Q55>",
+            "options": [
+              "withdraw",
+              "donate",
+              "receive",
+              "appreciate"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "第二节",
+    "description": "第二节（共10小题；每小题 1. 5分，满分15分）\n\n阅读下面短文，在空白处填入1个适当的单词或括号内单词的正确形式。",
+    "question_type": "independent-cloze-hint",
+    "content": [
+      {
+        "context": "Going to Mount Huangshan reminds me of the popular Beatles' song \"The Long and Winding Road\". <Q56> is so breathtaking about the experience is the out-of-this-world scenes. The rolling sea of clouds you see once you are at the top will remind you how tiny we <Q57> are.\n\nThe hot spring at the foot of the mountain is something you must try after the climb. It will <Q58> help you get refreshed! The amazing thing about the spring is that the colder the temperature gets, the <Q59> the spring! Strange, isn't it? But that's how nature is—always leaving us <Q60>.\n\nWhat comes next is the endless series of steps. You can't help wondering how hard it <Q61> for the people then to put all those rocks into place.\n\nThough it is the only unnatural thing on your way up the mountain, still it highlights the whole adventure <Q62> offers a place where you can sit down to rest your <Q63> legs.\n\nAs the song goes, this long and winding road \"will never disappear\", and it will always stick in the visitor's memory. It sure does in <Q64>. While you’re in China, Mount Huangshan is <Q65> must to visit!",
+        "questions": [
+          {
+            "question_id": 56,
+            "question_mark": "<Q56>",
+            "hint": null,
+            "answer": "What"
+          },
+          {
+            "question_id": 57,
+            "question_mark": "<Q57>",
+            "hint": "human",
+            "answer": "humans"
+          },
+          {
+            "question_id": 58,
+            "question_mark": "<Q58>",
+            "hint": "undoubted",
+            "answer": "undoubtedly"
+          },
+          {
+            "question_id": 59,
+            "question_mark": "<Q59>",
+            "hint": "hot",
+            "answer": "hotter"
+          },
+          {
+            "question_id": 60,
+            "question_mark": "<Q60>",
+            "hint": "astonish",
+            "answer": "astonished"
+          },
+          {
+            "question_id": 61,
+            "question_mark": "<Q61>",
+            "hint": "be",
+            "answer": "was"
+          },
+          {
+            "question_id": 62,
+            "question_mark": "<Q62>",
+            "hint": null,
+            "answer": "and"
+          },
+          {
+            "question_id": 63,
+            "question_mark": "<Q63>",
+            "hint": "ache",
+            "answer": "aching"
+          },
+          {
+            "question_id": 64,
+            "question_mark": "<Q64>",
+            "hint": "I",
+            "answer": "mine"
+          },
+          {
+            "question_id": 65,
+            "question_mark": "<Q65>",
+            "hint": null,
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  }
+]

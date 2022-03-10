@@ -1,0 +1,267 @@
+[
+  {
+    "name": "第一节",
+    "description": "第一节（共5小题；每小题 1.5分，满分7.5分）\n\n听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关",
+    "question_type": "multiple-choice",
+    "content": [
+      {
+        "context": "W: \"I was in Mallorca last week.\" M: \"Oh, what were you doing there?\" W: \"My best friend worked there. And I went to visit her. It was a good chance to practice my Spanish.\"",
+        "questions": [
+          {
+            "question_id": 1,
+            "question": "Why did the woman go to Mallorca?",
+            "options": [
+              "To teach Spanish.",
+              "To look for a job.",
+              "To see a friend."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "M: \"Ruth, I've got this terrible cold and I have to see a doctor. I am afraid I can't go to the class. Could you help me hand in my lab report to Dr. Davidson?\" W: \"Sure, no problem. Just take care of yourself and don't worry about the class.\"",
+        "questions": [
+          {
+            "question_id": 2,
+            "question": "What does the man ask the woman to do?",
+            "options": [
+              "Take him to hospital.",
+              "Go to a class with him.",
+              "Submit a report for him."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "M: \"Marie, if no one takes care of your children while you're away, Jennifer and I will be glad to have them stay with us.\" W: \"That's very kind of you. But they've already left for their Grandma's. You know, Suzy lives close by.\"",
+        "questions": [
+          {
+            "question_id": 3,
+            "question": "Who will look after the children?",
+            "options": [
+              "Jennifer.",
+              "Suzy.",
+              "Marie."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "context": "M: \"Hurry up with your food, Sally. They say there's a big storm coming. We'd better get home before that.\" W: \"Okay, I'm done. Let's get back to the car. Could you carry these shopping bags?\" M: \"Oh, sure.\"",
+        "questions": [
+          {
+            "question_id": 4,
+            "question": "What are the speakers going to do?",
+            "options": [
+              "Drive home.",
+              "Go shopping.",
+              "Eat out."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "context": "M: \"We deep fried fish three days ago in the kitchen, but the unpleasant smell stays.\" W: \"There is a method you can try. Every time you make coffee, dry the leftover coffee grounds and keep them in small bowls, then place the bowls in the kitchen.\"",
+        "questions": [
+          {
+            "question_id": 5,
+            "question": "What are the speakers talking about?",
+            "options": [
+              "How to fry fish.",
+              "How to make coffee.",
+              "How to remove a bad smell."
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "第二节",
+    "description": "第二节（共15小题；每小题 1.5分，满分22.5分）\n\n听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+    "question_type": "multiple-choice",
+    "content": [
+      {
+        "context": "W: \"Are you a football fan, Gomez?\" M: \"Yes, I go to the stadium whenever there’s a good game, and if I can’t get a ticket, I watch the game on TV. That way, they are less exciting, though.\" W: \"Is the ticket expensive?\" M: \"It depends. It usually costs about 20 to 50 dollars. Last time I paid 25.\" W: \"That’s not very expensive. Maybe we can go together some time.\" M: \"Great! It’ll be more fun to watch a game with a friend.\"",
+        "questions": [
+          {
+            "question_id": 6,
+            "question": "When does Gomez watch a football game on TV?",
+            "options": [
+              "When he fails to get a ticket.",
+              "When the stadium is crowded.",
+              "When his friends are too busy."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 7,
+            "question": "How much did Gomez pay for the football game last time?",
+            "options": [
+              "$20.",
+              "$25.",
+              "$50."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "context": "W: \"You were out the whole afternoon, Alex. What did you do?\" M: \"I took a walk by myself.\" W: \"You just kept walking and walking for four hours?\" M: \"Actually, it’s not so boring. Walking in the woods is a grand adventure. Your feet can take you to the most amazing places.\" W: \"What did you do in the woods?\" M: \"I smelled the flowers, looked at the birds, and yeah, I picked many tree leaves. I will make bookmarks with them. Look!\" W: \"Aren’t they beautiful!\" M: \"Then I met Bob at the lake. He was fishing while his kids were having a swim.\" W: \"Did you talk to him?\" M: \"No, I walked on and took a lot of pictures. There’s just so much out there to see.\"",
+        "questions": [
+          {
+            "question_id": 8,
+            "question": "What did Alex do in the afternoon?",
+            "options": [
+              "He had a walk.",
+              "He went hunting.",
+              "He planted trees."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 9,
+            "question": "What did Alex bring back?",
+            "options": [
+              "Flowers.",
+              "Leaves.",
+              "Books."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 10,
+            "question": "What was Bob doing when Alex saw him?",
+            "options": [
+              "Fishing.",
+              "Taking pictures.",
+              "Swimming."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "context": "W: \"David, how was your holiday?\" M: \"Great, I climbed Mount Fuji. It was really beautiful. Now I can check one more thing off my list.\" W: \"Your list?\" M: \"Yes. When I was 12, I made a list of things I wanted to do some day.\" W: \"That's interesting. How many of the things on your list have you done so far?\" M: \"Almost half. I have pictures. Would you like to see them?\" W: \"Yes, sure.\" M: \"Here I am on top of Mount Fuji. And here I am in a hot air balloon.\" W: \"When did you do that? I've always wanted to go up in a hot air balloon.\" M: \"It was two years ago, in August, in California.\" W: \"What are your plans for the next holiday?\" M: \"I'm thinking of deep-sea diving in Australia. Do you have any other suggestions?\" W: \"You really ought to take a boat down the Amazon. You'll see a lot of interesting animals and beautiful trees. It's one of the best places I've been to.\" M: \"OK. I'll put it on my list.\"",
+        "questions": [
+          {
+            "question_id": 11,
+            "question": "What did David do on his most recent holiday?",
+            "options": [
+              "He had a boat trip.",
+              "He took a balloon flight.",
+              "He climbed a mountain."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 12,
+            "question": "What is on David’s list?",
+            "options": [
+              "Gifts he needed to buy.",
+              "Things he wished to do.",
+              "Dates he had to remember."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 13,
+            "question": "Where does the woman suggest David go for his next holiday?",
+            "options": [
+              "Australia.",
+              "California.",
+              "The Amazon."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "W: \"Hello, Michael.\" M: \"Hi, Sarah.\" W: \"Are you attending the conference tomorrow morning at the Shelton Hotel?\" M: \"Yes. Are you?\" W: \"Yeah, but when I arrived home five minutes ago, I found that my car wouldn't start. And John is in Brighton on business.\" M: \"Do you know what's wrong with the car?\" W: \"I'm not exactly sure. I think there is a problem with the engine. Err… I wonder if you could give me a ride to the hotel tomorrow morning.\" M: \"Sure. When shall I be at your place?\" W: \"Well, what about 8:00? From my place to Shelton, we have to drive through the quarters, so we'd better leave early to avoid the traffic.\" M: \"OK. No problem. It takes twenty minutes to reach your place. So I'll set off at 7:40. By the way, do you also need me to drive you home tomorrow afternoon?\" W: \"No, John will be back then, and he'll get me home. Thank you, Michael.\" M: \"That's okay. See you tomorrow.\"",
+        "questions": [
+          {
+            "question_id": 14,
+            "question": "Why did Sarah make the phone call?",
+            "options": [
+              "To ask a favor.",
+              "To pass on a message.",
+              "To make an appointment."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 15,
+            "question": "Where is Sarah now?",
+            "options": [
+              "In Brighton.",
+              "At her home.",
+              "At the Shelton Hotel."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 16,
+            "question": "What time is Michael leaving his place tomorrow morning?",
+            "options": [
+              "At 7:40.",
+              "At 8:00.",
+              "At 8:20."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 17,
+            "question": "What is the probable relationship between John and Sarah?",
+            "options": [
+              "Neighbors.",
+              "Fellow workers.",
+              "Husband and wife."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "W: \"Hello, everyone. Today I'll talk about how to improve your pronunciation. Language researchers say pronunciation and fluency are the biggest barriers, followed by grammar, in effective spoken English. However, most people don't regard pronunciation as a very important part of communication skills. They're more focused on vocabulary. One reason is that most people are not even aware of their mispronunciations. So it's important to first find out the words you mispronounce. You should listen to experts, by experts, I mean those who are less likely to make pronunciation mistakes. When listening to them, pay attention to words that sound strange, strange because you pronounce the same words differently. When you come across such words, check a dictionary to confirm their exact pronunciations. You can also search for difficult-to-pronounce words and names, and make a list of them. The last suggestion is to read aloud. Now you've got the correct pronunciations of the words, it's time to practice reading them every day.\"",
+        "questions": [
+          {
+            "question_id": 18,
+            "question": "What do most people think is very important in spoken communication?",
+            "options": [
+              "Pronunciation.",
+              "Vocabulary.",
+              "Grammar."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 19,
+            "question": "Why should you listen to experts according to the speaker?",
+            "options": [
+              "To develop your reading fluency.",
+              "To improve your note-taking skills.",
+              "To find out your mispronunciations."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 20,
+            "question": "What is the speaker’s last suggestion?",
+            "options": [
+              "Spell out the difficult words.",
+              "Check the words in a dictionary.",
+              "Practice reading the words aloud."
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  }
+]
+

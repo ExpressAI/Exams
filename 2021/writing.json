@@ -1,0 +1,33 @@
+[
+  {
+    "name": "第一节",
+    "description": "第一节（满分15分）\n\n你校英文报Youth正在庆祝创刊十周年。请你写一篇短文投稿，内容包括：\n\n1.读报的经历；\n\n2.喜爱的栏目；\n\n3.期望和祝福。\n\n注意：\n\n1.写作词数应为80左右；\n\n2.请按如下格式在答题卡的相应位置作答。\n\nYouth and Me",
+    "question_type": "writing",
+    "content": [
+      {
+        "context": null,
+        "questions": [
+          {
+            "question_id": 66,
+            "question": "Youth, your school's English newspaper, is celebrating its 10th anniversary. Please write a short article for submission, including.\n\n1. the experience of reading the newspaper.\n\n2. favorite columns.\n\n3. expectations and wishes.\n\nAttention.\n\n1. the number of words in the writing should be about 80.\n\n2. Please answer in the following format in the appropriate place on the answer key.\n\nYouth and Me"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "第二节",
+    "description": "第二节（满分25分）\n\n阅读下面材料，根据其内容和所给段落开头语续写两段，，使之构成一篇完整的短文。",
+    "content": [
+      {
+        "context": "TODO",
+        "questions": [
+          {
+            "question_id": 67,
+            "question": "Read the material and write two paragraphs based on their content and the opening phrase of the given paragraph, so that they form a complete short essay. Attention.\n\n1. The number of words in the sequel should be about 150\n2. Please answer in the appropriate place on the answer key according to the following format."
+          }
+        ]
+      }
+    ]
+  }
+]
