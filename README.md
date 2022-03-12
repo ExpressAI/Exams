@@ -2,13 +2,26 @@
 
 College Entrance Examination Data from 2017 - 2021
 
-| Year | Type      | Sources                                                                                                                                                                             | Finished |
-|------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| 2017 |           |                                                                                                                                                                                     | [ ]      |
-| 2018 |           |                                                                                                                                                                                     | [ ]      |
-| 2019 |           | 1.[http://www.liaoweiwei.com/2019gaokao-word.html](http://www.liaoweiwei.com/2019gaokao-word.html)                                                                                  | [ ]      |
-| 2020 | 2020全国卷I  | 1.[https://www.gk100.com/read_7708.htm](https://www.gk100.com/read_7708.htm)<br/>2.[https://zhuanlan.zhihu.com/p/160136755](https://zhuanlan.zhihu.com/p/160136755)                 | [ ]      |
-| 2021 | 2021新高考I卷 | 1.[https://www.bilibili.com/read/cv11699209](https://www.bilibili.com/read/cv11699209)<br/>2.[https://www.cpsenglish.com/question/50938](https://www.cpsenglish.com/question/50938) | [x]      |
+| Year | Type           | Sources                                                                                                                                                                             | Finished |
+|------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| 2017 | 2017全国卷I       | 1. https://wenku.baidu.com/view/9587128051e2524de518964bcf84b9d528ea2ca5.html?re=view                                                                                               | [ ]      |
+| 2017 | 2017全国卷II      | 1. https://wenku.baidu.com/view/a7a47751ef06eff9aef8941ea76e58fafab04599.html?re=view                                                                                               | [ ]      |
+| 2017 | 2017全国卷III     | 1. http://m.2abc8.com/wap-action-69878-1.htm                                                                                                                                        | [ ]      |
+| 2018 | 2018新课标全国卷I卷   | 1. https://wendang.xuehi.cn/doc/0571c585ba4cf7ec4afe04a1b0717fd5360cb2d5.html                                                                                                       | [ ]      |
+| 2018 | 2018新课标全国卷II卷  | 1. https://wenku.baidu.com/view/0b327ba029ea81c758f5f61fb7360b4c2f3f2a7d.html?re=view                                                                                               | [ ]      |
+| 2018 | 2018新课标全国卷III卷 | 1. https://wenku.baidu.com/view/ee57b52a24c52cc58bd63186bceb19e8b8f6ec3c.html?re=view                                                                                               | [ ]      |
+| 2019 | 2019全国卷I       | 1.http://www.liaoweiwei.com/2019gaokao-word.html                                                                                                                                    | [ ]      |
+| 2019 | 2019全国卷II      | 1.http://www.liaoweiwei.com/2019gaokao-word.html                                                                                                                                    | [ ]      |
+| 2019 | 2019全国卷III     | 1.http://www.liaoweiwei.com/2019gaokao-word.html                                                                                                                                    | [ ]      |
+| 2020 | 2020全国卷I       | 1.https://www.gk100.com/read_7708.htm <br/>2.https://zhuanlan.zhihu.com/p/160136755                                                                                                 | [ ]      |
+| 2020 | 2020全国卷II      | 1. https://www.gk100.com/read_7709.htm                                                                                                                                              | [ ]      |
+| 2020 | 2020全国卷III     | 1. https://www.gk100.com/read_7711.htm                                                                                                                                              | [ ]      |
+| 2020 | 2020全国新高考I卷    | 1. https://www.sohu.com/a/435305611_578753                                                                                                                                          | [ ]      |
+| 2020 | 2020全国新高考II卷   | 1. http://www.yygrammar.com/Article/202012/5533.html                                                                                                                                | [ ]      |
+| 2021 | 2021全国甲卷       | 1. https://www.gaokzx.com/Fup/document/202108/08-16_181733-10105.pdf                                                                                                                | [ ]      |
+| 2021 | 2021全国乙卷       | 1. https://edu.sina.com.cn/gaokao/2021-06-08/doc-ikqciyzi8491406.shtml                                                                                                              | [ ]      |
+| 2021 | 2021新高考I卷      | 1.[https://www.bilibili.com/read/cv11699209](https://www.bilibili.com/read/cv11699209)<br/>2.[https://www.cpsenglish.com/question/50938](https://www.cpsenglish.com/question/50938) | [x]      |
+| 2021 | 2021新高考II卷     | 1. https://www.doc88.com/p-14361796844805.html                                                                                                                                      | [ ]      |
 
 
 ### 2019
@@ -52,8 +65,10 @@ College Entrance Examination Data from 2017 - 2021
 4. 作文请参考`writing.json`
 5. 其他题型如果出现了可以再讨论。
 
-注意事项：
+标注注意事项：
 1. 一般网上复制过来的东西，有的单词之间可能没有断开，得手动分一下。
 2. 单引号双引号可能不是英文的引号，得手动换一下。
+3. 注意去掉阅读或者其他题目中可能出现的中文。（中文仅能出现在name，description，或者翻译题目中）
+4. 听力原稿一般与题目分开，可以单独寻找资源
 
   
