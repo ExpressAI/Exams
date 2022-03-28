@@ -75,6 +75,11 @@ NOTES:
 1. 全国卷的听力有很多是重复的
 
 ## Essays
+作文题目可以有以下来源：
+1. [https://news.koolearn.com/20170527/1121593.html](https://news.koolearn.com/20170527/1121593.html) 中的2006年～2012年
+2. [https://www.gaokzx.com/c/202104/51072.html](https://www.gaokzx.com/c/202104/51072.html) 
+3. [https://www.gk100.com/read_14808.htm](https://www.gk100.com/read_14808.htm)
+
 对于作文题一般有以下几种形式供参考：
 1. pure-writing
 如果没给开头/结尾：
