@@ -71,4 +71,53 @@ College Entrance Examination Data from 2017 - 2021
 3. 注意去掉阅读或者其他题目中可能出现的中文。（中文仅能出现在name，description，或者翻译题目中）
 4. 听力原稿一般与题目分开，可以单独寻找资源
 
-  
+NOTES:
+1. 全国卷的听力有很多是重复的
+
+## Essays
+对于作文题一般有以下几种形式供参考：
+1. pure-writing
+如果没给开头/结尾：
+```
+{
+  "source": "2016高考英语满分作文范文(新课标1卷)", 
+  "link": "http://gaokao.koolearn.com/20170527/1104693.html", 
+  "question_type": "pure-writing", 
+  "question": "假定你是李华，暑假想去一家外贸公司兼职，已写好申请书和个人简历(resume)。给外教Mr Jenkins 写信，请她帮你修改所附材料的文字和格式(format)", 
+  "requirements": "1. 词数100左右; 2. 可以适当增加细节，已使行文连贯。", 
+  "example_essay": "Dear Ms Jenkins, I am Li Hua, I am writing to tell you something about my plan for the coming summer vacation and I also want you to do me a favor. In order to get some practical experience, I am planning to take a part-time job in a foreign capital company. I have already finished my job application and personal resume. But this is the first time that I have written an application and the personals resume, so I don't even know if there are something to pay attention to. So, I'm writing you the letter , hoping you can give me some help. I will be very grateful if you can help me. Looking forward to your reply. And I'd be really thankful. Yours, Li Hua"
+}
+```
+如果给了开头/结尾, （若只给开头，则只写start这一项）
+```
+{
+  "source": "高考英语作文：2014高考英语满分作文(安徽卷)", 
+  "link": "https://gaokao.koolearn.com/20150424/853875.html", 
+  "question_type": "pure-writing", 
+  "question": "为了帮助中学生健康成长，某中学英文报开辟了“HEART-TO-HEART”专栏。假设你是该栏目的编辑Jamie，收到一封署名为Worried的求助信。信中该同学向你诉说了自己的困扰：近日容易发脾气，使正常的学习和生活受到了影响。请用英文给该同学写一封回信。内容要点如下：1.表示理解并给予安慰;2.提出建议并说明理由。", 
+  "requirements": "1.词数120左右; 2.信中不能出现与本人相关的信息; 3.信的开头与结尾已为你拟好，不计入总词数。", 
+  "start": "Hi Worried， I’m sorry to know that you’re having such a had time at the moment.", 
+  "end": "Yours, Jamie", 
+  "example_essay": "Hi Worried, I'm sorry to know that you're having such a bad time at the moment. The truth is that everyone will have one of those periods when things seem to be going wrong, so you don't have to worry much. The important thing is to learn to control your temper so that you may not do or say anything you’ll regret. Here are three useful tips: First, talk to someone you trust about how you feel. This is a good way of letting your anger out without hurting others or yourself. Second, go outdoors and play team games with your ftiends as physical exercise is an effective way to get rid of anger. And third, remain optimistic about your future. Such a positive attitude towards life can be helpful in lifting your spirits. I hope you'll soon feel calmer and carry on as normal. Yours, Jamie"}
+```
+2. reading-writing
+```
+{
+  "source": "2016高考英语满分作文范文(江苏卷)", 
+  "link": "https://gaokao.koolearn.com/20170527/1104698.html", 
+  "question_type": "reading-writing", 
+  "reading": "In recent years, internet voting has become increasingly popular in China. People not only cast on-line votes themselves, but also urge others to vote for competitions like the \"Most Beautiful Teacher\" and the \"Cutest Baby\". Li Jiang, a high school student, is invited to vote in the \"Best Police Officer\" competition, organized by the local government to let the public have a better understanding of police officers' daily work. Li Jiang visits the website and reads all the stories. He is deeply moved by their glorious deeds. He is already thinking of becoming a policeman himself in the future. Su Hua is invited by his uncle to vote for his cousin in the \"Future Singer\" competition. He has already received three similar invitations this week. His uncle tells him that if his cousin wins the competition, the family will win an oversea s tour for free. Su Hua likes his cousin very much, but he finds other singers perform even better. To vote, or not to vote This is a question that troubles him very much.", 
+  "question": "1. 用约30个单词写出上文概要; 2. 用约120个单词阐述你对网络投票的看法，并用2 ~3个理由或论据支撑你的看法。", 
+  "requirements": "1. 写作过程中不能直接引用原文语句; 2. 作文中不能出现真实姓名和学校名称; 3. 不必写标题。",
+  "example_essay": "On-line voting becomes increasingly popular, and many competitions get people involved in it. It is beneficial to some people, while it puts others into a dilemma over whether to vote or not. In my opinion, on-line voting is an inseparable part of modern life and should be welcomed, since it is no more than a way to participate in public life. It makes no difference from ordinary voting events, in which candidates go around to seek supports. In addition, the Internet makes surveying and voting easy and convenient, regardless of time and space. Furthermore, voting on the Internet makes instant feedback possible. To be honest, voters sometimes feel annoyed, not because they hate voting, but because they are divided between emotion and fairness. Things will turn for the better if we can work out some participation rules for people to obey. Therefore, I hold a positive attitude towards on-line voting."
+}
+```
+
+注意事项
+1. 所有的范文中的单引号双引号句号等都需转换成英文的单引号双引号句号等
+2. "注意"中的内容可以放在requirements里。如果没有明确requirements，则不需要写requirements这一项。
+3. 圆圈数字列点的等等都转化成1. 2. 3.这种
+4. 涉及到图片的题目可以忽略不整理
+5. 无需列出参考词汇
+6. 对于每篇好作文都整理成上述形式，一个题目的多篇作文就可以写多个上述结构，一个占一行。
+7. 范文中的中文要去掉。

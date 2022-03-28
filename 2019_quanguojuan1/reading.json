@@ -1,0 +1,276 @@
+[
+  {
+    "name": "第一节",
+    "description": "第一节（共15小题；每小题2.5分，满分37.5分）\n\n阅读下列短文，从每题所给的A、B、C、D四个选项中选出最佳选项。",
+    "question_type": "multiple-choice",
+    "content": [
+      {
+        "context": "Need a Job This Summer?\n\nThe provincial government and its partners offer many programs to help students find summer jobs. The deadlines and what you need to apply depend on the program.\n\nNot a student? Go to the government website to learn about programs and online tools available to help people under 30 build skills, find a job or start businesses all year round.\n\nJobs for Youth\n\nIf you are a teenager living in certain parts of the province, you could be eligible（符合条件） for this program, which provides eight weeks of paid employment along with training.\n\nWho is eligible: Youth 15—18 years old in select communities（社区）.\n\nSummer Company\n\nSummer Company provides students with hands-on business training and awards of up to $3,000 to start and run their own summer businesses.\n\nWho is eligible: Students aged 15—29, returning to school in the fall.\n\nStewardship Youth Ranger Program\n\nYou could apply to be a Stewardship Youth Ranger and work on local natural resource management projects for eight weeks this summer.\n\nWho is eligible: Students aged 16 or 17 at time of hire, but not turning 18 before December 31 this year.\n\nSummer Employment Opportunities（机会）\n\nhrough the Summer Employment Opportunities program, students are hired each year in a variety of summer positions across the Provincial Public Service, its related agencies and community groups.\n\nWho is eligible: Students aged 15 or older. Some positions require students to be 15 to 24 or up to 29 for persons with a disability.",
+        "questions": [
+          {
+            "question_id": 21,
+            "question": "What is special about Summer Company?",
+            "options": [
+              "It requires no training before employment.",
+              "It provides awards for running new businesses.",
+              "It allows one to work in the natural environment.",
+              "It offers more summer job opportunities."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 22,
+            "question": "What is the age range required by Stewardship Youth Ranger Program?",
+            "options": [
+              "15—18.",
+              "15—24.",
+              "15—29.",
+              "16—17."
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 23,
+            "question": "Which program favors the disabled?",
+            "options": [
+              "Jobs for Youth.",
+              "Summer Company.",
+              "Stewardship Youth Ranger Program.",
+              "Summer Employment Opportunities."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "context": "For Canaan Elementary’s second grade in Patchogue, N.Y.，today is speech day, and right now it’s Chris Palaez’s turn. The 8-year-old is the joker of the class. With shining dark eyes, he seems like the kind of kid who would enjoy public speaking.\n\nBut he’s nervous.\"I’m here to tell you today why you should … should…\"Chris trips on the\"-ld,\"a  pronunciation difficulty for many non-native English speakers. His teacher, Thomas Whaley, is next to him, whispering support.\"…Vote for …me …\"Except for some stumbles, Chris is doing amazingly well. When he brings his speech to a nice conclusion, Whaley invites the rest of the class to praise him.\n\nA son of immigrants, Chris started learning English a little over three years ago. Whaley recalls（回想起）how at the beginning of the year, when called upon to read, Chris would excuse himself to go to the bathroom.\n\nLearning English as a second language can be a painful experience. What you need is a great teacher who lets you make mistakes. \"It takes a lot for any student,\" Whaley explains, \"especially for a student who is learning English as their new language, to feel confident enough to say, ‘I don’t know，but I want to know.’\"\n\nWhaley got the idea of this second-grade presidential campaign project when he asked the children one day to raise their hands if they thought they could never be a president. The answer broke his heart. Whaley says the project is about more than just learning to read and speak in public. He wants these kids to learn to boast（夸耀）about themselves.\n\n\"Boasting about yourself, and your best qualities,\" Whaley says, \"is very difficult for a child who came into the classroom not feeling confident.\"",
+        "questions": [
+          {
+            "question_id": 24,
+            "question": "What made Chris nervous？",
+            "options": [
+              "Telling a story.",
+              "Making a speech.",
+              "Taking a test.",
+              "Answering a question."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 25,
+            "question": "What does the underlined word ＂stumbles＂ in paragraph 2 refer to?",
+            "options": [
+              "Improper pauses.",
+              "Bad manners.",
+              "Spelling mistakes.",
+              "Silly jokes."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 26,
+            "question": "We can infer that the purpose of Whaley’s project is to _________.",
+            "options": [
+              "help students see their own strengths",
+              "assess students’ public speaking skills",
+              "prepare students for their future jobs",
+              "inspire students’ love for politics"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 27,
+            "question": "Which of the following best describes Whaley as a teacher?",
+            "options": [
+              "Humorous.",
+              "Ambitious.",
+              "Caring.",
+              "Demanding."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "As data and identity theft becomes more and more common, the market is growing for biometric（生物测量）technologies—like fingerprint scans—to keep others out of private e-spaces. At present, these technologies are still expensive, though.\n\nResearchers from Georgia Tech say that they have come up with a low-cost device（装置）that gets around this problem: a smart keyboard. This smart keyboard precisely measures the cadence（节奏) with which one types and the pressure fingers apply to each key. The keyboard could offer a strong layer of security by analyzing things like the force of a user’s typing and the time between key presses. These patterns are unique to each person. Thus, the keyboard can determine people’s identities, and by extension, whether they should be given access to the computer it’s connected to — regardless of whether someone gets the password right.\n\nIt also doesn’t require a new type of technology that people aren’t already familiar with. Everybody uses a keyboard and everybody types differently.\n\nIn a study describing the technology, the researchers had 100 volunteers type the word ＂touch＂four times using the smart keyboard. Data collected from the device could be used to recognize different participants based on how they typed, with very low error rates. The researchers say that the keyboard should be pretty straightforward to commercialize and is mostly made of inexpensive, plastic-like parts. The team hopes to make it to market in the near future. ",
+        "questions": [
+          {
+            "question_id": 28,
+            "question": "Why do the researchers develop the smart keyboard?",
+            "options": [
+              "To reduce pressure on keys.",
+              "To improve accuracy in typing",
+              "To replace the password system.",
+              "To cut the cost of e-space protection."
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 29,
+            "question": "What makes the invention of the smart keyboard possible?",
+            "options": [
+              "Computers are much easier to operate.",
+              "Fingerprint scanning techniques develop fast.",
+              "Typing patterns vary from person to person.",
+              "Data security measures are guaranteed."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 30,
+            "question": "What do the researchers expect of the smart keyboard?",
+            "options": [
+              "It’ll be environment-friendly.",
+              "It’ll reach consumers soon.",
+              "It’ll be made of plastics.",
+              "It’ll help speed up typing."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 31,
+            "question": "Where is this text most likely from?",
+            "options": [
+              "A diary.",
+              "A guidebook",
+              "A novel.",
+              "A magazine."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "context": "During the rosy years of elementary school（小学), I enjoyed sharing my dolls and jokes, which allowed me to keep my high social status. I was the queen of the playground. Then came my tweens and teens, and mean girls and cool kids. They rose in the ranks not by being friendly but by smoking cigarettes, breaking rules and playing jokes on others, among whom I soon found myself.\n\nPopularity is a well-explored subject in social psychology. Mitch Prinstein, a professor of clinical psychology sorts the popular into two categories: the likable and the status seekers. The likables’ plays-well-with-others qualities strengthen schoolyard friendships, jump-start interpersonal skills and, when tapped early, are employed ever after in life and work. Then there’s the kind of popularity that appears in adolescence: status born of power and even dishonorable behavior.\n\nEnviable as the cool kids may have seemed, Dr. Prinstein’s studies show unpleasant consequences. Those who were highest in status in high school, as well as those least liked in elementary school, are \"most likely to engage（从事）in dangerous and risky behavior.\"\n\nIn one study, Dr. Prinstein examined the two types of popularity in 235 adolescents, scoring the least liked, the most liked and the highest in status based on student surveys（调查研究）. \"We found that the least well-liked teens had become more aggressive over time toward their classmates. But so had those who were high in status. It clearly showed that while likability can lead to healthy adjustment, high status has just the opposite effect on us.\"\n\nDr. Prinstein has also found that the qualities that made the neighbors want you on a play date-sharing, kindness, openness — carry over to later years and make you better able to relate and connect with others.\n\nIn analyzing his and other research，Dr. Prinstein came to another conclusion: Not only is likability related to positive life outcomes, but it is also responsible for those outcomes, too. \"Being liked creates opportunities for learning and for new kinds of life experiences that help somebody gain an advantage,\" he said.",
+        "questions": [
+          {
+            "question_id": 32,
+            "question": "What sort of girl was the author in her early years of elementary school?",
+            "options": [
+              " Unkind.",
+              " Lonely.",
+              "Generous.",
+              "Cool."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 33,
+            "question": "What is the second paragraph mainly about？",
+            "options": [
+              "The classification of the popular.",
+              "The characteristics of adolescents.",
+              "The importance of interpersonal skills.",
+              "The causes of dishonorable behavior."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 34,
+            "question": "What did Dr. Prinstein’s study find about the most liked kids?",
+            "options": [
+              "They appeared to be aggressive.",
+              "They tended to be more adaptable.",
+              "They enjoyed the highest status.",
+              "They performed well academically."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 35,
+            "question": "What is the best title for the text?",
+            "options": [
+              "Be Nice—You Won’t Finish Last",
+              "The Higher the Status, the Better",
+              "Be the Best—You Can Make It",
+              "More Self-Control, Less Aggressiveness"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "第二节",
+    "description": "第二节 （共5 题小题；每小题 2.5分，满分12.5分）\n\n阅读下面短文，从短文后的选项中选出可以填入空白处的最佳选项。选项中有两项为多余选项。",
+    "question_type": "dependent-cloze-choice",
+    "content": [
+      {
+        "context": "We all grew up hearing people tell us to \"go out and get some fresh air\" . <36> According to recent studies, the answer is a big YES, if the air quality in your camping area is good.\n\n<37> If the air you’re breathing is clean — which it would be if you’re away from the smog of cities — then the air is filled with life-giving, energizing oxygen. If you exercise out of doors, your body will learn to breathe more deeply, allowing even more oxygen to get to your muscles and your brain.\n\nRecently, people have begun studying the connection between the natural world and healing. <38> In these places patients can go to be near nature during their recovery. It turns out that just looking at green, growing things can reduce stress, lower blood pressure, and put people into a better mood. Greenery is good for us. Hospital patients who see tree branches out their window are likely to recover at a faster rate than patients who see buildings or sky instead. <39> It gives us a great feeling of peace.\n\n<40> While the sun’s rays can age and harm our skin, they also give us beneficial Vitamin D. To make sure you get enough Vitamin D — but still protect your skin — put on sunscreen right as you head outside. It takes sunscreen about fifteen minutes to start working, and that’s plenty of time for your skin to absorb a day’s worth of Vitamin D.",
+        "questions": [
+          {
+            "question_id": 36,
+            "question_mark": "<Q36>",
+            "options": [
+              "Fresh air cleans our lungs.",
+              "So what are you waiting for?",
+              "Being in nature refreshes us.",
+              "Another side benefit of getting fresh air is sunlight.",
+              "But is fresh air really as good for you as your mother always said?",
+              "Just as importantly, we tend to associate fresh air with health care.",
+              "All across the country, recovery centers have begun building Healing Gardens."
+            ],
+            "answer": 4
+          },
+          {
+            "question_id": 37,
+            "question_mark": "<Q37>",
+            "options": [
+              "Fresh air cleans our lungs.",
+              "So what are you waiting for?",
+              "Being in nature refreshes us.",
+              "Another side benefit of getting fresh air is sunlight.",
+              "But is fresh air really as good for you as your mother always said?",
+              "Just as importantly, we tend to associate fresh air with health care.",
+              "All across the country, recovery centers have begun building Healing Gardens."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 38,
+            "question_mark": "<Q38>",
+            "options": [
+              "Fresh air cleans our lungs.",
+              "So what are you waiting for?",
+              "Being in nature refreshes us.",
+              "Another side benefit of getting fresh air is sunlight.",
+              "But is fresh air really as good for you as your mother always said?",
+              "Just as importantly, we tend to associate fresh air with health care.",
+              "All across the country, recovery centers have begun building Healing Gardens."
+            ],
+            "answer": 6
+          },
+          {
+            "question_id": 39,
+            "question_mark": "<Q39>",
+            "options": [
+              "Fresh air cleans our lungs.",
+              "So what are you waiting for?",
+              "Being in nature refreshes us.",
+              "Another side benefit of getting fresh air is sunlight.",
+              "But is fresh air really as good for you as your mother always said?",
+              "Just as importantly, we tend to associate fresh air with health care.",
+              "All across the country, recovery centers have begun building Healing Gardens."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 40,
+            "question_mark": "<Q40>",
+            "options": [
+              "Fresh air cleans our lungs.",
+              "So what are you waiting for?",
+              "Being in nature refreshes us.",
+              "Another side benefit of getting fresh air is sunlight.",
+              "But is fresh air really as good for you as your mother always said?",
+              "Just as importantly, we tend to associate fresh air with health care.",
+              "All across the country, recovery centers have begun building Healing Gardens."
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  }
+]

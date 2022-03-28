@@ -1,0 +1,267 @@
+[
+  {
+    "name": "第一节",
+    "description": "第一节（共5小题；每小题 1.5分，满分7.5分）\n\n听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题",
+    "question_type": "multiple-choice",
+    "content": [
+      {
+        "context": "W: \" Excuse me, sir, visiting hours are overnow. Your wife must get some rest.\" M: \"Oh, I'm sorry, doctor. I didn't hear the bell, or I would've left earlier.\"",
+        "questions": [
+          {
+            "question_id": 1,
+            "question": "Where does this conversation take place?",
+            "options": [
+              "In a classroom.",
+              "In a hospital.",
+              "In a museum."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "context": "M: \"Hello, my name is Jack. I need to get in shape. How do I register for the classes?\" W: \" We'll need you to join the gym, and then you can find out which classes fit your schedule the best.\"",
+        "questions": [
+          {
+            "question_id": 2,
+            "question": "What does Jack want to do?",
+            "options": [
+              "Take fitness classes.",
+              "Buy a pair of gym shoes.",
+              "Change his work schedule."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "context": "W: \"I'll see you at the theatre.\" M: \"Better still, let's meet in the Red Lion bar to have a little nice talk.\" W: \"Good idea, and I'd love to have a drink there.\"",
+        "questions": [
+          {
+            "question_id": 3,
+            "question": "What are the speakers talking about?",
+            "options": [
+              "What to drink.",
+              "Where to meet.",
+              "When to leave."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "context": "M: \"Hello, my name is John Arber. And I'm calling to ask about the position advertised in Friday's DailyMail.\" W: \"Yes, the position is still open. You could come over and have а talk with us.\"",
+        "questions": [
+          {
+            "question_id": 4,
+            "question": "What is the relationship between the speakers?",
+            "options": [
+              "Colleagues.",
+              "Classmates.",
+              "Strangers."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "M: \"I have an extra ticket to the concert tonight. Would you like to join me?\" W: \"Thanks, but I already have one. You can ask Emily. She might be interested.\"",
+        "questions": [
+          {
+            "question_id": 5,
+            "question": "Why is Emily mentioned in the conversation?",
+            "options": [
+              "She might want a ticket.",
+              "She is looking for the man.",
+              "She has an extra ticket."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "第二节",
+    "description": "第二节（共15小题；每小题 1.5分，满分22.5分）\n\n听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+    "question_type": "multiple-choice",
+    "content": [
+      {
+        "context": "W: \"Did you know James went out of business?\" M: \"Really? When was that?\" W: \"Last month.\" M: \"That's too bad! He had owned that business for 15 years. What happened?\" W: \"I don't know. But life must be pretty tough for his family now. His sons are still so young. One is 13 and the other is 10.\" M: \"Well, maybe things are not as bad asthey seem to be.\" W: \"I hope so.\"",
+        "questions": [
+          {
+            "question_id": 6,
+            "question": "How long did James run his business?",
+            "options": [
+              "10 years.",
+              "13 years.",
+              "15 years."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 7,
+            "question": "How does the woman feel about James’ situation?",
+            "options": [
+              "Embarrassed.",
+              "Concerned.",
+              "Disappointed."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "context": "W: \"Guess what? My mother' s decided to go back to school.\" M: \"Why?\" W: \"Well, she always loved art, but learned business administration at college, because her parents thought it was difficult for an artist to find а job.\" M: \"So she wants to study art now?\" W: \"Yeah, oil paining. lt's been her dreamfor a long time.\" M: \"lt's nice to return to learn what she loves. But, Kate, I still think old age should be about peace and relaxation. Hurrying to school every day and having to pass exams sounds a bit too much for her.\" W: \"You know, she retired last year and I'm leaving for the university soon. She needs to find something interesting to do.\" M: \"Well, maybe, if it s what she wants.\"",
+        "questions": [
+          {
+            "question_id": 8,
+            "question": "What has Kate’s mother decided to do?",
+            "options": [
+              "Return to school.",
+              "Change her job.",
+              "Retire from work."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 9,
+            "question": "What did Kate’s mother study at college?",
+            "options": [
+              "Oil painting.",
+              "Art history.",
+              "Business administration."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 10,
+            "question": "What is Kate’s attitude toward her mother’s decision?",
+            "options": [
+              "Disapproving.",
+              "Ambiguous.",
+              "Understanding."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "M: \"Dear listeners, for today's show, I have with me, my colleague, Mary Lenny. She has been a radio & TV reporter for many years. Mary, welcome to our show!\" W: \" It's a pleasure to be here.\" M: \"Would you please tell our listeners who most influenced your decision to become а reporter?\" W: \"Both my parents had a great influence upon my choice of work, instead of trying to pick out а job for me, they helped me learn those things that led me to it.\" M: \"How did they do that?\" W: \"My father always told me that an education was one of the greatest advantages I could have, one that would always stay with me. He used to tell me that readers were leaders, and encouraged me to read all I could. As a result, l've always kept up with the newspapers, faithfully read magazines and learned to really enjoy books, all of which have been a valuable help to me in radio and television reporting.\" M: \"What about your mother?\" W: \"Well, my mother helped me in a much different way.\"",
+        "questions": [
+          {
+            "question_id": 11,
+            "question": "What is the man doing?",
+            "options": [
+              "Chairing a meeting.",
+              "Hosting a radio program.",
+              "Conducting a job interview."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 12,
+            "question": "What benefits Mary most in her job?",
+            "options": [
+              "Her wide reading.",
+              "Her leaders’ guidance.",
+              "Her friends’ help."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 13,
+            "question": "Who will Mary talk about next?",
+            "options": [
+              "Her teacher.",
+              "Her father.",
+              "Her mother."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "M: \" We all know that exercise is good for us, but sometimes it seems too hard to leave the sofa.\" W: \" I can see that. You seldom do exercise.\" M: \"Plus, having the doctor tell us to get two and a half hours' exercise a week doesn't really help our motivation much.\" W: \" Don't be discouraged. Now a new study suggests getting benefits from exercise doesn't have to be that demanding. Jacob Sattelmair from Harvard University has done a study into how much exercise is needed to lower the risk of heart attacks.\" M: \"Mm.... interesting!\" W: \"The study showed that people who put in 300 minutes a week of exercise had a 20 percent lower risk of death due to heart disease. Still, the people who exercise 115 minutes a week did pretty well, too, lowering their death risk by 14 percent.\" M: \"And what about the people who exercise half as much as that, like what I probably do? Does that help?\" W: \"Of course, even 15 minutes would help.\"",
+        "questions": [
+          {
+            "question_id": 14,
+            "question": "Why does the man seldom do exercise?",
+            "options": [
+              "He lacks motivation.",
+              "He has a heart problem.",
+              "He works all the time."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 15,
+            "question": "What does Jacob Sattelmair probably do?",
+            "options": [
+              "A. He’s an athlete.",
+              "He’s a researcher.",
+              "He’s a journalist."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 16,
+            "question": "Why does the woman speak of a study?",
+            "options": [
+              "To encourage the man.",
+              "To recommend an exercise.",
+              "To support her findings."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 17,
+            "question": "How much time will the man probably spend exercising weekly?",
+            "options": [
+              "300 minutes.",
+              "150 minute.",
+              "75 minutes."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "\"Here is a piece of news for bird lovers. Scientists have painted а long road, red, yellow and white. They help to discourage the sea birds from wandering onto the highway. The area is home to large crowds of birds that come to stay for the season. Young birds are often attracted to the warm roads' surface and get killed by the traffic. Biology student,Hannah tells the broadcaster.The youngster'S feathers are brown in color. The dark-colored road surface makes the youngster hard to be noticed. As the number of tourists has grown, SO has the amount of traffic on the roads. Biologist Christen says the plan is to see how the birds respond to the multi-colored road this summer, and if it works, the idea could spread to other parts of the country.\"",
+        "questions": [
+          {
+            "question_id": 18,
+            "question": "What did the scientists do to the road?",
+            "options": [
+              "They repaired it.",
+              "They painted it.",
+              "They blocked it."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 19,
+            "question": "Why are young birds drawn to the road surface?",
+            "options": [
+              "It’s warm.",
+              "It’s brown.",
+              "It’s smooth."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 20,
+            "question": "What is the purpose of the scientists’ experiment?",
+            "options": [
+              "To keep the birds there for a whole year.",
+              "To help students study the birds well.",
+              "To prevent the birds from being killed."
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  }
+]
+

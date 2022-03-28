@@ -1,0 +1,266 @@
+[
+  {
+    "name": "第一节",
+    "description": "第一节（共5小题；每小题 1.5分，满分7.5分）\n\n听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关",
+    "question_type": "multiple-choice",
+    "content": [
+      {
+        "context": "W: \"Excuse me,how can I find the bookcalled The Class of 1998?\" M: \"Oh,I'm afraid it was sold out.W:It's all right. Thank you!\"",
+        "questions": [
+          {
+            "question_id": 1,
+            "question": "Where does the conversation probably take place?",
+            "options": [
+              "In a library.",
+              "In a bookstore.",
+              "In a classroom."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "context": "M: \"How did your dancing lesson gotoday?\" W: \"Exciting!But it was hard work. I really need а rest now.\"M: \"Yeah,I can see that. Go and getre laxed.\"",
+        "questions": [
+          {
+            "question_id": 2,
+            "question": "How does the woman feel now?",
+            "options": [
+              "Relaxed.",
+              "Excited.",
+              "Tired."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "M: \"How much is that in total?\" W: \"$100. But if you have a membershipcard,I can give a 20% discount.\"M: \"Great! This is my membership card.\"",
+        "questions": [
+          {
+            "question_id": 3,
+            "question": "How much will the man pay?",
+            "options": [
+              "$520.",
+              "$80.",
+              "$100."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "context": "M: \"Jane,I'm going out for a while.\" W: \"But you have an appointment with Mr.Douglas at 3 o'clock.\" M: \"Well,please make it another day.\"",
+        "questions": [
+          {
+            "question_id": 4,
+            "question": "What does the man tell Jane to do?",
+            "options": [
+              "Postpone his appointment.",
+              "Meet Mr. Douglas.",
+              "Return at 3 o’clock."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "context": "W: \"David said he would quit his job at ourschool.\" M: \"Really? Why would he do that?\"W: \"His friend started a firm in London.She wanted David to help her.\"",
+        "questions": [
+          {
+            "question_id": 5,
+            "question": "Why would David quit his job?",
+            "options": [
+              "To go back to school.",
+              "To start his own firm.",
+              "To work for his friend."
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "第二节",
+    "description": "第二节（共15小题；每小题 1.5分，满分22.5分）\n\n听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+    "question_type": "multiple-choice",
+    "content": [
+      {
+        "context": "W: \"I'm going out for shopping. Do you need anything?\" M: \"Oh, can't find my you buy one?\" W: \"Shouldn't it be in the cupboard?\" M: \"I just wasn't there.\" W: \"Impossible. That was where I usually put it. Did you check the balcony?\" M: \"Yes, of course,couldn't find it. Well, just get a new one then.\"",
+        "questions": [
+          {
+            "question_id": 6,
+            "question": "What does the man want the woman to do??",
+            "options": [
+              "Check the cupboard.",
+              "Clean the balcony.",
+              "Buy an umbrella."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 7,
+            "question": "What is the probable relationship between the speakers?",
+            "options": [
+              "Husband and wife.",
+              "Employer and employee.",
+              "Shop assistant and customer."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "context": "M: \"Hi,Lucy. How was your weekend?\" W: \"Great! You know,we went mountain climbing in the forest park. The air was sodifferent from the city,cool and fresh.\" M: \"Sound great!\" W: \"Yeah,there wasn't a cloud in the skyand we could see from miles from the top. What about you? What did you do?\" M: \"Busy packing.\" W: \"Oh,yes,of coursel!I forgot you and Jenny are moving into a new's on Wednesday,isn't it?\" M: \"Yeah,two days didn't realize there are so many things to do.\" W: \"Can I help out with anything?\" M: \"Um,it would be nice if could take care of Henry for a couple of days.\" W: \"Henry?\"M: \"Yes,my dog.\" W: \"Oh,sure,no just focus on the move.\"",
+        "questions": [
+          {
+            "question_id": 8,
+            "question": "Where did the woman go at the weekend?",
+            "options": [
+              "The city centre.",
+              "The forest park.",
+              "The man’s home."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 9,
+            "question": "How did the man spend his weekend?",
+            "options": [
+              "Packing for a move.",
+              "Going out with Jenny.",
+              "Looking for a new house."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 10,
+            "question": "What will the woman do for the man?",
+            "options": [
+              "Take Henry to hospital.",
+              "Stay with his kid.",
+              "Look after his pet."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "M: \"Hello,can I speak to Mr. Stone,please?\" W: \"Hello,but I'm afraid Mr. Stone is in ameeting until lunchtime. Can I take а message?\" M: \"Well,yes. I'd like to make an appointment to see him. It's HarrisonWhite here.\" W: \"Just a second, Mr. White. I'll look in thediary. So...when is convenient for you?\" M: \"I need to talk about my new program with him before he leaves. It's urgent. Sowould this afternoon be OK?\" W: \":Let me see.... Stone is free thisafternoon after 3:00.\" M: \"Well,3:00 is a bit difficult. But I could make it after 3:30.\" W: \"So,shall we say a quarter to four this afternoon in Mr. Stone's office?\" M: \"That's great. Thanks.\"",
+        "questions": [
+          {
+            "question_id": 11,
+            "question": "What is Mr. Stone doing now?",
+            "options": [
+              "Eating lunch.",
+              "Having a meeting.",
+              "Writing a diary."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 12,
+            "question": "Why does the man want to see Mr. Stone?",
+            "options": [
+              "To discuss a program.",
+              "To make a travel plan.",
+              "To ask for sick leave."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 13,
+            "question": "When will the man meet Mr. Stone this afternoon?",
+            "options": [
+              "At 3:00.",
+              "At 3:30.",
+              "At 3:45"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "context": "W: \"Hello?\" M: \"Hi,Cindy. This is Jake Lee at Fix-it Corporation. How are you today?\" W: \"Oh,hi,m fine. How are you?\" M: \" reason I'm calling is that we'd like to offer you the position you were interviewed for last Thursday.\" W: \"Oh,that's great!I was really impressed with Fix-it.\" M: \"I'm glad to hear it. And we'll prepare to offer you a starting salary of $55,000.\" W: \"I ...vacation time?\" M: \"Oh,you get one day per month in your first year. That is you'll have 12 days in your first year, and then increase if you stay longer with the company.\" W: \"What would be my job title?\" M: \"You'd be a junior specialist. And you'd be working under Monica Stansfield,the department manager.\" W: \"OK...Is the salary negotiable at all?\"M: \" Well,this is typical for new staff.\" W: \"l see...\" M: \"Why don't you think about it? I'll need to hear back from you by Wednesday.Will that work?\" W: \"Sure,no problem. I'll let you know Tuesday afternoon.\"",
+        "questions": [
+          {
+            "question_id": 14,
+            "question": "What are the speakers talking about?",
+            "options": [
+              "A company.",
+              "An interview.",
+              "A job offer."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 15,
+            "question": "Who is Monica Stansfield?",
+            "options": [
+              "A junior specialist.",
+              "A department manager.",
+              "A sales assistant."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 16,
+            "question": "When will the man hear from the woman?",
+            "options": [
+              "On Tuesday.",
+              "On Wednesday",
+              "On Thursday."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+         "context": "M:\"Hello, everybody. Today I’d like to share with you something about John Audubon. John was born on April 26th. 1785. He spent much of his childhood in France where he spent many hours each day outdoors painting pictures. At the age of 18, he moved to the United States. Well, actually. John began his life in the US as a businessman. However, instead of taking care of his business, John was often off exploring nature. At first, John spent his time hunting for fun. Then he found that the animals around were very beautiful, and he particularly enjoyed observing the birds he saw. He began studying them, trying to learn the differences between the birds and noticing their different behaviors.Therefore, he painted the birds he observed a lot. In 1819, John realized that he didn’t have enough money to pay his bills. He was very upset that he couldn’t earn enough money to support his family. So he spent time improving his painting skills and began to sell his paintings. He discovered that he could earn some money while doing something he really enjoyed. We are lucky now to have so many paintings of American birds by John Audubon.\"",
+         "questions": [
+        {
+            "question_id": 17,
+            "question": "How much time will the man probably spend exercising weekly?",
+            "options": [
+              "300 minutes.",
+              "150 minute.",
+              "75 minutes."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 18,
+            "question": "What did John do after he moved to the US?",
+            "options": [
+              "He did business.",
+              "He studied biology.",
+              "He worked on a farm."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 19,
+            "question": "Why did John go hunting?",
+            "options": [
+              "For food.",
+              "For pleasure.",
+              "For money."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 20,
+            "question": "What is the subject of John’s works?",
+            "options": [
+              "American birds.",
+              "Natural scenery.",
+              "Family life."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "name": "第一节",
+    "description": "第一节（共15小题；每小题 1分，满分15分）\n\n阅读下面短文，从每题所给的A、B、C、D四个选项中选出可以填入空白处的最佳选项。",
+    "question_type": "independent-cloze-choice",
+    "content": [
+      {
+        "context": "It was just after sunrise on a June morning, \＂Nicolo,\＂ whose real name cannot be <41>to the public because of Italy's privacy laws,<42> working the whole night at a factory in Turin. As he often did, he stopped by the \＂after work auction (拍卖)\＂ <43> by the Italian police where things<44>.on the trains were sold to the highest bidder. There, among many other things, Nicolo spotted two paintings he thought would look<45>  above his dining room table. Nicolo and another bidder<46>until Nicolo finally won the paintings for $32.\n\n When Nicolo retired and went to live in Sicily, he <47> the paintings with him. He hung them above the same table he had  <48> from Turin. His son, age 15, who had  <49>. an art appreciation class, thought that there was something  <50>about the one with a young girl sitting on a garden chair. It was signed (签名) \＂Bonnato\＂ or so he thought, but when he <51> it, he only found \＂Bonnard, \＂a French <52> he had never heard of. He bought a book and was <53>to find a picture of the artist Pierre Bonnard sitting on the same chair in the same <54> as his father's painting\n\n \＂That’s the garden in our picture. \＂Nicolo'son told his father. They<55>learned that the painting they <56> was called \＂The Girl with Two Chairs.\＂They <57>the other painting and learned that it was<58>Paul Gauguin's \＂Still Life of Fruit on a Table with a Small Dog.\＂The <59> called the Italian Culture Ministry; the official confirmed that the paintings were <60> and worth as much as $50 million.",
+        "questions": [
+          {
+            "question_id": 41,
+            "question_mark": "<Q41>",
+            "options": [
+              "attached",
+              "allocated",
+              "exposed",
+              "submitted"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 42,
+            "question_mark": "<Q42>",
+            "options": [
+              "finished",
+              "delayed",
+              "considered",
+              "tried"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 43,
+            "question_mark": "<Q43>",
+            "options": [
+              "attended",
+              "reserved",
+              "cancelled",
+              "run"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 44,
+            "question_mark": "<Q44>",
+            "options": [
+              "shown",
+              "found",
+              "kept",
+              "hidden"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 45,
+            "question_mark": "<Q45>",
+            "options": [
+              "nice",
+              "familiar",
+              "useful",
+              "real"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 46,
+            "question_mark": "<Q46>",
+            "options": [
+              "battled",
+              "debated",
+              "discussed",
+              "bargained"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 47,
+            "question_mark": "<Q47>",
+            "options": [
+              "held",
+              "left",
+              "registered",
+              "brought"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 48,
+            "question_mark": "<Q48>",
+            "options": [
+              "chosen",
+              "received",
+              "ordered",
+              "moved"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 49,
+            "question_mark": "<Q49>",
+            "options": [
+              "missed",
+              "failed",
+              "taken",
+              "led"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 50,
+            "question_mark": "<Q50>",
+            "options": [
+              "concrete",
+              "unusual",
+              "unappealing",
+              "natural"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 51,
+            "question_mark": "<Q51>",
+            "options": [
+              "appreciated",
+              "touched",
+              "researched",
+              "witnessed"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 52,
+            "question_mark": "<Q52>",
+            "options": [
+              "painter",
+              "designer",
+              "author",
+              "actor"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 53,
+            "question_mark": "<Q53>",
+            "options": [
+              "expected",
+              "surprised",
+              "anxious",
+              "ready"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 54,
+            "question_mark": "<Q54>",
+            "options": [
+              "room",
+              "kitchen",
+              "hall",
+              "garden"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 55,
+            "question_mark": "<Q55>",
+            "options": [
+              "apparently",
+              "confidently",
+              "eventually",
+              "temporarily"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 56,
+            "question_mark": "<Q56>",
+            "options": [
+              "owned",
+              "borrowed",
+              "sold",
+              "stole"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 57,
+            "question_mark": "<Q57>",
+            "options": [
+              "collected.",
+              "cleaned.",
+              "framed.",
+              "studied."
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 58,
+            "question_mark": "<Q58>",
+            "options": [
+              "suitably",
+              "actually",
+              "rightly",
+              "specifically "
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 59,
+            "question_mark": "<Q59>",
+            "options": [
+              "girl",
+              "artist",
+              "family",
+              "police"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 60,
+            "question_mark": "<Q60>",
+            "options": [
+              "copies",
+              "originals",
+              "models",
+              "presents"
+            ],
+            "answer": 1
+          },
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "第二节",
+    "description": "第二节（共10小题；每小题 1. 5分，满分15分）\n\n阅读下面短文，在空白处填入1个适当的单词或括号内单词的正确形式。",
+    "question_type": "independent-cloze-hint",
+    "content": [
+      {
+        "context": "Chinese New Year is a <61> (celebrate)marking the end of the winter season and the beginning of spring. This is why decorating with plants, fruits and flowers <62> (carry)special significance. They represent the earth  <63> (come) back to life and best wishes for new beginnings.\n\n These are some of the most popular in many parts of the country:\n\nOranges: Orange trees are more <64> decoration; they are a symbol of good fortune and wealth. They make great gifts and you see them many times <65> (decorate)with red envelopes and messages of good fortune.\n\n Bamboo: Chinese love their "Lucky Bamboo" plants and you will see them often in their homes and offices. <66> (certain) during the holiday period, this plant is a must. Bamboo plants are associated <67> health, abundance and a happy home. They are easy <68> (care)for and make great presents.\n\nBranches of Plum blossoms(梅花):The <69> (beauty) long branches covered with pink-colored buds (蓓蕾) make fantastic decorations. The plum trees are <70> first to flower even as the snow is melting(融化). They represent the promise of spring and a renewal of life.",
+        "questions": [
+          {
+            "question_id": 61,
+            "question_mark": "<Q61>",
+            "hint": "celebrate",
+            "answer": "Celebration"
+          },
+          {
+            "question_id": 62,
+            "question_mark": "<Q62>",
+            "hint": "carry",
+            "answer": "carries"
+          },
+          {
+            "question_id": 63,
+            "question_mark": "<Q63>",
+            "hint": "come",
+            "answer": "coming"
+          },
+          {
+            "question_id": 64,
+            "question_mark": "<Q64>",
+            "hint": "null",
+            "answer": "than"
+          },
+          {
+            "question_id": 65,
+            "question_mark": "<Q65>",
+            "hint": "decorate",
+            "answer": "decorated"
+          },
+          {
+            "question_id": 66,
+            "question_mark": "<Q66>",
+            "hint": "certain",
+            "answer": "Certainly"
+          },
+          {
+            "question_id": 67,
+            "question_mark": "<Q67>",
+            "hint": "null",
+            "answer": "with"
+          },
+          {
+            "question_id": 68,
+            "question_mark": "<Q68>",
+            "hint": "care",
+            "answer": "to care"
+          },
+          {
+            "question_id": 69,
+            "question_mark": "<Q69>",
+            "hint":" beauty",
+            "answer": "beautiful"
+          },
+          {
+            "question_id": 70,
+            "question_mark": "<Q70>",
+            "hint": "null",
+            "answer": "the"
+          }
+        ]
+      }
+    ]
+  }
+]

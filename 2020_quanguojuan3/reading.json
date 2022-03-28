@@ -1,0 +1,276 @@
+[
+  {
+    "name": "第一节",
+    "description": "第一节（共15小题；每小题2.5分，满分37.5分）\n\n阅读下列短文，从每题所给的A、B、C、D四个选项中选出最佳选项。",
+    "question_type": "multiple-choice",
+    "content": [
+      {
+        "context": "Journey Back in Time with Scholars\n\nClassical Provence (13 days)\n\nJourney through the beautiful countryside of Provence, France, with Prof. Ori Z. Soltes. We will visit some of the best- preserved Roman monuments in the world. Our tour also includes a chance to walk in the footsteps of Van Gogh and Gauguin. Fields of flowers, tile roofed (瓦屋顶) villages and tasty meals enrich this wonderful experience.\n\nSouthern Spain (15 days)\n\nChina's Sacred Landscapes (21 days)\n\nDiscover the China of\"past ages,\" its walled cities, temples and mountain scenery with Prof. Robert Thorp. Highlights (精彩之处) include China's most sacred peaks at Mount Tai and Hangzhou's rolling hills, waterways and peaceful temples. We will wander in traditional small towns and end our tour with an exceptional museum in Shanghai.\n\nTunisia (17 days)\n\nJoin Prof. Pedar Foss on our in-depth Tunisian tour. Tour highlights include the Roman city of Dougga, the underground Numidian capital at Bulla Regia, Roman Sbeitla and the remote areas around Tataouine and Matmata, unique for underground cities. Our journey takes us to picturesque Berber villages and lovely beaches.",
+        "questions": [
+          {
+            "question_id": 21,
+            "question": "What can visitors see in both Classical Provence and Southern Spain?",
+            "options": [
+              "Historical monuments.",
+              "Fields of flowers.",
+              "Van Gogh's paintings.",
+              "Greek buildings."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 22,
+            "question": "Which country is Prof. Thorp most knowledgeable about?",
+            "options": [
+              "France.",
+              "Spain.",
+              "China.",
+              "Tunisia."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 23,
+            "question": "Which of the following highlights the Tunisian tour?",
+            "options": [
+              "White towns.",
+              "Underground citie.",
+              "Tile-roofed villages.",
+              "Rolling hills."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "context": "When “Rise of the Planet of the Apes\" was first shown to the public last month, a group of excited animal activists gathered on Hollywood Boulevard. But they weren't there to throw red paint on fur-coat- wearing film stars. Instead, one activist, dressed in a full-body monkey suit, had arrived with a sign praising the filmmakers: \"Thanks for not using real apes (猿)!\"\n\nThe creative team behind\"Apes\" used motion-capture (动作捕捉) technology to create digitalized animals, spending tens of millions of dollars on technology that records an actor's performance and later processes it with computer graphics to create a final image (图像). In this case, one of a realistic-looking ape.\n\nYet \"Apes\" is more exception than the rule. In fact, Hollywood has been hot on live animals lately. One nonprofit organization, which monitors the treatment of animals in filmed entertainment, is keeping tabs on more than 2,000 productions this year,. Already, a number of films, including \"Water for Elephants,\" \"The Hangover Part I\" and \"Zookeeper,\" have drawn the anger of activists who say the creatures acting in them haven't been treated properly.\n\nIn some cases, it's not so much the treatment of the animals on set in the studio that has activists worried; it's the off-set training and living conditions that are raising concerns. And there are questions about the films made outside the States, which sometimes are not monitored as closely as productions filmed in the States.",
+        "questions": [
+          {
+            "question_id": 24,
+            "question": "Why did the animal activists gather on Hollywood Boulevard?",
+            "options": [
+              "To see famous film stars.",
+              "To oppose wearing fur coats.",
+              "To raise money for animal protection.",
+              "To express thanks to some filmmakers."
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 25,
+            "question": "What does paragraph 2 mainly talk about?",
+            "options": [
+              "The cost of making \"Apes.\"",
+              "The creation of digitalized apes.",
+              "The publicity about\"Apes.\"",
+              "The performance of real apes."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 26,
+            "question": "What does the underlined phrase \"keeping tabs on\" in paragraph 3 probably mean?",
+            "options": [
+              "Listing completely",
+              "Directing professionally",
+              "Promoting successfully",
+              "Watching carefully"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 27,
+            "question": "What can we infer from the last paragraph about animal actors?",
+            "options": [
+              "They may be badly treated.",
+              "They should take further training.",
+              "They could be traded illegally.",
+              "They would lose popularity."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "context": "With the young unable to afford to leave home and the old at risk of isolation (孤独), more families are choosing to live together.\n\nThe doorway to peace and quiet, for Nick Bright at least, leads straight to his mother-in-law: she lives on the ground floor, while he lives upstairs with his wife and their two daughters.\n\nFour years ago they all moved into a three-storey Victorian house in Bristol - one of a growing number of multigenerational families in the UK living together under the same roof. They share a front door and a washing machine, but Rita Whitehead has her own kitchen, bathroom, bedroom and living room on the ground floor.\n\n\"We floated the idea to my mum of sharing a house,\" says Kathryn Whitehead. Rita cuts in: \"We spoke more with Nick because I think it's a big thing for Nick to live with his mother-in-law.\"\n\nAnd what does Nick think? \"From my standpoint, it all seems to work very well. Would I recommend it? Yes, I think I would.\"\n\nIt's hard to tell exactly how many people agree with him, but research indicates that the numbers have been rising for some time. Official reports suggest that the number of households with three generations living together had risen from 325,000 in 2001 to 419,000 in 2013.\n\nOther varieties of multigenerational family are more common. Some people live with their elderly parents; many more adult children are returning to the family home, if they ever left. It is said that about 20% of 25-34-year-olds live with their parents, compared with 16% in 1991. The total number of all multigenerational households in Britain is thought to be about 1.8 million.\n\nStories like that are more common in parts of the world, where multigenerational living is more firmly rooted. In India, particularly outside cities, young women are expected to move in with their husband's family when they get married.",
+        "questions": [
+          {
+            "question_id": 28,
+            "question": "Who mainly uses the ground floor in the Victorian house in Bristol?",
+            "options": [
+              "Nick.",
+              "Rita.",
+              "Kathryn.",
+              "The daughters."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 29,
+            "question": "What is Nick's attitude towards sharing the house with his mother-in-law?",
+            "options": [
+              "Positive.",
+              "Carefree.",
+              "Tolerant.",
+              "Unwilling."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 30,
+            "question": "What is the author's statement about multigenerational family based on?",
+            "options": [
+              "Family traditions.",
+              "Financial reports.",
+              "Published statistics.",
+              "Public opinions."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 31,
+            "question": "What is the text mainly about?",
+            "options": [
+              "Lifestyles in different countries.",
+              "Conflicts between generations.",
+              "A housing problem in Britain.",
+              "A rising trend of living in the UK."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "context": "We are the products of evolution, and not just evolution that occurred billions of years ago. As scientists look deeper into our genes (基因), they are finding examples of human evolution in just the past few thousand years. People in Ethiopian highlands have adapted to living at high altitudes. Cattle -raising people in East Africa and northern Europe have gained a mutation (突变) that helps them digest milk as adults\n\nOn Thursday in an article published in Cell, a team of researchers reported a new kind of adaptation - not to air or to food, but to the ocean. A group of sea-dwelling people in Southeast Asia have evolved into better divers. The Bajau, as these people are known, number in the hundreds of thousands in Indonesia, Malaysia and the Philippines. They have traditionally lived on houseboats; in recent times, they've also built houses on stilts (支柱) in coastal waters. \"They are simply a stranger to the land,\" said Redney C. Jubilado, a University of Hawaii researcher who studies the Bajau.\n\nDr. Jubilado first met the Bajau while growing up on Samal Island in the Philippines. They made a living as divers, spearfishing or harvesting shellfish. \"We were so amazed that they could stay underwater much longer than us local islanders,\" Dr. Jubilado said. \"I could see them actually walking under the sea.\"\n\nIn201, Melissa Ilardo, then a graduate student in genetics at the University of Copenhagen, heard about the Bajau. She wondered if centuries of diving could have led to the evolution of physical characteristics that made the task easier for them. \"it seemed like the perfect chance for natural selection to act on a population,\" said Dr. Ilardo. She also said there were likely a number of other genes that help the Bajau dive.",
+        "questions": [
+          {
+            "question_id": 32,
+            "question": "What does the author want to tell us by the examples in paragraph 1??",
+            "options": [
+              "Environmental adaptation of cattle raisers.",
+              "New knowledge of human evolution.",
+              "Recent findings of human origin.",
+              "Significance of food selection."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 33,
+            "question": "Where do the Bajau build their houses?",
+            "options": [
+              "In valleys.",
+              "Near rivers.",
+              "On the beach.",
+              "Off the coast."
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 34,
+            "question": "Why was the young Jubilado astonished at the Bajau?",
+            "options": [
+              "They could walk on stilts all day.",
+              "They had a superb way of fishing.",
+              "They could stay long underwater.",
+              "They lived on both land and water."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 35,
+            "question": "What can be a suitable title for the text?",
+            "options": [
+              "Bodies Remodeled for a Life at Sea",
+              "Highlanders' Survival Skills",
+              "Basic Methods of Genetic Research",
+              "The World's Best Divers"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "第二节",
+    "description": "第二节 （共5 题小题；每小题 2.5分，满分12.5分）\n\n阅读下面短文，从短文后的选项中选出可以填入空白处的最佳选项。选项中有两项为多余选项。",
+    "question_type": "dependent-cloze-choice",
+    "content": [
+      {
+        "context": "A housewarming party is a special party to be held when someone buys or moves into a new apartment or house. The person who bought the house or moved is the one who throws the party, The party is a chance for friends and family to congratulate the person on the new home.<36> And it is a good time to fill the new space with love and hopefully presents.\n\n<37> Some people register a list of things they want or need for their new home at a local store or stores. Some common things people will put on a gift registry include kitchen tools like knives and things like curtains. Even if there isn't a registry, a good housewarming gift is something to decorate the new house with, like a piece of art or a plant.\n\n<38> This is often appreciated since at a housewarming there isn't a lot of food served. There are usually no planned activities like games at a housewarming party. The host or hostess of the party will, however, probably give all the guests a tour of their new home. Sometimes, because a housewarming party happens shortly after a person moves into their new home, people may be asked to help unpack boxes.<39> \n\nHousewarming parties get their name from the fact that a long time ago people would actually bring firewood to a new home as a gift. <40> Now most homes have central heating and don't use fires to keep warm.",
+        "questions": [
+          {
+            "question_id": 36,
+            "question_mark": "<Q36>",
+            "options": [
+              "This isn't usual though.",
+              "It is traditional to bring a gift to a housewarming party.",
+              "You can also bring food or drinks to share with the other guests.",
+              "If you're lucky enough to receive gifts, keep them in a safe place.",
+              "It also gives people a chance to see what the new home looks like.",
+              "The best housewarming parties encourage old friends to get together.",
+              "This was so that the person could keep their home warm for the winter."
+            ],
+            "answer": 4
+          },
+          {
+            "question_id": 37,
+            "question_mark": "<Q37>",
+            "options": [
+              "This isn't usual though.",
+              "It is traditional to bring a gift to a housewarming party.",
+              "You can also bring food or drinks to share with the other guests.",
+              "If you're lucky enough to receive gifts, keep them in a safe place.",
+              "It also gives people a chance to see what the new home looks like.",
+              "The best housewarming parties encourage old friends to get together.",
+              "This was so that the person could keep their home warm for the winter."
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 38,
+            "question_mark": "<Q38>",
+            "options": [
+              "This isn't usual though.",
+              "It is traditional to bring a gift to a housewarming party.",
+              "You can also bring food or drinks to share with the other guests.",
+              "If you're lucky enough to receive gifts, keep them in a safe place.",
+              "It also gives people a chance to see what the new home looks like.",
+              "The best housewarming parties encourage old friends to get together.",
+              "This was so that the person could keep their home warm for the winter."
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 39,
+            "question_mark": "<Q39>",
+            "options": [
+              "This isn't usual though.",
+              "It is traditional to bring a gift to a housewarming party.",
+              "You can also bring food or drinks to share with the other guests.",
+              "If you're lucky enough to receive gifts, keep them in a safe place.",
+              "It also gives people a chance to see what the new home looks like.",
+              "The best housewarming parties encourage old friends to get together.",
+              "This was so that the person could keep their home warm for the winter."
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 40,
+            "question_mark": "<Q40>",
+            "options": [
+              "This isn't usual though.",
+              "It is traditional to bring a gift to a housewarming party.",
+              "You can also bring food or drinks to share with the other guests.",
+              "If you're lucky enough to receive gifts, keep them in a safe place.",
+              "It also gives people a chance to see what the new home looks like.",
+              "The best housewarming parties encourage old friends to get together.",
+              "This was so that the person could keep their home warm for the winter."
+            ],
+            "answer": 6
+          }
+        ]
+      }
+    ]
+  }
+]

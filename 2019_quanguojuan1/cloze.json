@@ -1,0 +1,307 @@
+[
+  {
+    "name": "第一节",
+    "description": "第一节（共15小题；每小题 1分，满分15分）\n\n阅读下面短文，从每题所给的A、B、C、D四个选项中选出可以填入空白处的最佳选项。",
+    "question_type": "independent-cloze-choice",
+    "content": [
+      {
+        "context": "Every year about 40,000 people attempt to climb Kilimanjaro, the highest mountain in Africa. They <41> with them lots of waste. The <42> might damage the beauty of the place. The glaciers（冰川）are disappearing, changing the <43> of Kilimanjaro.\n\nHearing these stories, I’m <44> about the place — other destinations are described as \＂purer\＂ natural experiences.\n\nHowever, I soon <45> that much has changed since the days of disturbing reports of <46> among tons of rubbish. I find a <47> mountain, with toilets at camps and along the paths. The environmental challenges are <48> but the efforts made by the Tanzania National Park Authority seem to be <49>.\n\nThe best of a Kilimanjaro <50>, in my opinion, isn’t reaching the top. Mountains are <51> as spiritual places by many cultures. This <52> is especially evident on Kilimanjaro as <53> go through five ecosystems（生态系统）in the space of a few kilometers. At the base is a rainforest. It ends abruptly at 3, 000 meters, <54> lands of low growing plants. Further up, the weather <55> — low clouds envelope the mountainsides, which are covered with thick grass. I <56> twelve shades of green from where I stand. Above 4, 000 meters is the highland <57>: gravel（砾石）, stones and rocks. <58> you climb into an arctic-like zone with <59> snow and the glaciers that may soon disappear.\n\nDoes Kilimanjaro <60> its reputation as a crowded mountain with lines of tourists ruining the atmosphere of peace? I found the opposite to be true.",
+        "questions": [
+          {
+            "question_id": 41,
+            "question_mark": "<Q41>",
+            "options": [
+              "keep",
+              "mix",
+              "connect",
+              "bring"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 42,
+            "question_mark": "<Q42>",
+            "options": [
+              "stories",
+              "buildings",
+              "crowds",
+              "reporters"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 43,
+            "question_mark": "<Q43>",
+            "options": [
+              "position",
+              "age",
+              "face",
+              "name"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 44,
+            "question_mark": "<Q44>",
+            "options": [
+              "silent",
+              "skeptical",
+              "serious",
+              "crazy"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 45,
+            "question_mark": "<Q45>",
+            "options": [
+              "discover",
+              "argue",
+              "decide",
+              "advocate"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 46,
+            "question_mark": "<Q46>",
+            "options": [
+              "equipment",
+              "grass",
+              "camps",
+              "stones"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 47,
+            "question_mark": "<Q47>",
+            "options": [
+              "remote",
+              "quiet",
+              "all",
+              "clean"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 48,
+            "question_mark": "<Q48>",
+            "options": [
+              "new",
+              "special",
+              "significant",
+              "necessary"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 49,
+            "question_mark": "<Q49>",
+            "options": [
+              "paying off",
+              "spreading out",
+              "blowing up",
+              "fading away"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 50,
+            "question_mark": "<Q50>",
+            "options": [
+              "atmosphere",
+              "experience",
+              "experiment",
+              "sight"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 51,
+            "question_mark": "<Q51>",
+            "options": [
+              "studied",
+              "observed",
+              "explored",
+              "regarded"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 52,
+            "question_mark": "<Q52>",
+            "options": [
+              "view",
+              "quality",
+              "reason",
+              "purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 53,
+            "question_mark": "<Q53>",
+            "options": [
+              "scientists",
+              "climbers",
+              "locals",
+              "officials"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 54,
+            "question_mark": "<Q54>",
+            "options": [
+              "holding on to",
+              "going back to",
+              "living up to",
+              "giving way to"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 55,
+            "question_mark": "<Q55>",
+            "options": [
+              "changes",
+              "clears",
+              "improves",
+              "permits"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 56,
+            "question_mark": "<Q56>",
+            "options": [
+              "match",
+              "imagine",
+              "count",
+              "add"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 57,
+            "question_mark": "<Q57>",
+            "options": [
+              "village",
+              "desert",
+              "road",
+              "lake"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 58,
+            "question_mark": "<Q58>",
+            "options": [
+              "Obviously",
+              "Easily",
+              "Consequently",
+              "Finally"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 59,
+            "question_mark": "<Q59>",
+            "options": [
+              "permanent",
+              "little",
+              "fresh",
+              "artificial"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 60,
+            "question_mark": "<Q60>",
+            "options": [
+              "enjoy",
+              "deserve",
+              "save",
+              "acquire"
+            ],
+            "answer": 1
+          },
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "第二节",
+    "description": "第二节（共10小题；每小题 1. 5分，满分15分）\n\n阅读下面短文，在空白处填入1个适当的单词或括号内单词的正确形式。",
+    "question_type": "independent-cloze-hint",
+    "content": [
+      {
+        "context": "The polar bear is found in the Arctic Circle and some big land masses as far south as Newfoundland. While they are rare north of 88°, there is evidence <61> they range all the way across the Arctic, and as far south as James Bay in Canada. It is difficult to figure out a global population of polar bears as much of the range has been  <62> (poor) studied; however, biologists calculate that there are about 20,000-25,000 polar bears worldwide.\n\nModern methods <63> tracking polar bear populations have been employed only since the mid-1980s, and are expensive <64> (perform) consistently over a large area. In recent years some Inuit people in Nunavut <65> (report) increases in bear sightings around human settlements, leading to a <66> (believe) that populations are increasing. Scientists have responded by <67> (note) that hungry bears may be congregating(聚集) around human settlements, leading to the illusion(错觉) that populations are <68> (high) than they actually are. Of <69> nineteen recognized polar bear subpopulations, three are declining, six <70> (be) stable, one is increasing, and nine lack enough data.",
+        "questions": [
+          {
+            "question_id": 61,
+            "question_mark": "<Q61>",
+            "hint": null,
+            "answer": "that"
+          },
+          {
+            "question_id": 62,
+            "question_mark": "<Q62>",
+            "hint": "poor",
+            "answer": "poorly"
+          },
+          {
+            "question_id": 63,
+            "question_mark": "<Q63>",
+            "hint": null,
+            "answer": "of/for"
+          },
+          {
+            "question_id": 64,
+            "question_mark": "<Q64>",
+            "hint": "perform",
+            "answer": "to perform"
+          },
+          {
+            "question_id": 65,
+            "question_mark": "<Q65>",
+            "hint": "report",
+            "answer": "have reported"
+          },
+          {
+            "question_id": 66,
+            "question_mark": "<Q66>",
+            "hint": "believe",
+            "answer": "belief"
+          },
+          {
+            "question_id": 67,
+            "question_mark": "<Q67>",
+            "hint": "note",
+            "answer": "noting"
+          },
+          {
+            "question_id": 68,
+            "question_mark": "<Q68>",
+            "hint": "high",
+            "answer": "higher"
+          },
+          {
+            "question_id": 69,
+            "question_mark": "<Q69>",
+            "hint": null,
+            "answer": "the"
+          },
+          {
+            "question_id": 70,
+            "question_mark": "<Q70>",
+            "hint": "be",
+            "answer": "are"
+          }
+        ]
+      }
+    ]
+  }
+]

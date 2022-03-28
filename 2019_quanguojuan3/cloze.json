@@ -1,0 +1,307 @@
+[
+  {
+    "name": "第一节",
+    "description": "第一节（共15小题；每小题 1分，满分15分）\n\n阅读下面短文，从每题所给的A、B、C、D四个选项中选出可以填入空白处的最佳选项。",
+    "question_type": "independent-cloze-choice",
+    "content": [
+      {
+        "context": "The small town of Rjukan in Norway is situated between several mountains and does not get direct sunlight from late September to mid-March—  <41> six months out of the year.\n\nOf course, we <42> it when the sun is shining,\" says Karin Ro, who works for the town’s tourism office. “We see the sky is  <43> , but down in the valley it’s darker — it’s like on a <44> day.\"\n\nBut that <45> when a system of high-tech <46> was introduced to reflect sunlight from neighboring peaks（山峰）into the valley below. Wednesday, residents（居民）of Rjukan <47> their very first ray of winter sunshine: A row of reflective boards on a nearby mountainside were put to <48>. The mirrors are controlled by a computer that <49> them to turn along with the sun throughout the <50> and to close during windy weather. They reflect a concentrated beam（束）of light onto the town’s central <51>, creating an area of sunlight roughly 600 square meters. When the light <52>, Rjukan residents gathered together.\n\n\“People have been  <53> there and standing there and taking <54> of each other,\" Ro says. \"The town square was totally <55>. I think almost all the people in the town were there.\"The 3,500 residents cannot all <56> the sunshine at the same time. <57>, the new light feels like more than enough for the town’s <58> residents.\"\n\n\"It's not very <59>,\” she says, \"but it is enough when we are <60>.\”,
+        "questions": [
+          {
+            "question_id": 41,
+            "question_mark": "<Q41>",
+            "options": [
+              "only",
+              "obviously",
+              "nearly",
+              "precisely"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 42,
+            "question_mark": "<Q42>",
+            "options": [
+              "fear",
+              "believe",
+              "hear",
+              "notice"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 43,
+            "question_mark": "<Q43>",
+            "options": [
+              "empty",
+              "blu",
+              "high",
+              "wide"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 44,
+            "question_mark": "<Q44>",
+            "options": [
+              "cloudy",
+              "normal",
+              "different",
+              "warm"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 45,
+            "question_mark": "<Q45>",
+            "options": [
+              "helped",
+              "changed",
+              "happened",
+              "mattered"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 46,
+            "question_mark": "<Q46>",
+            "options": [
+              "computers",
+              "telescopes",
+              "mirrors",
+              "cameras"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 47,
+            "question_mark": "<Q47>",
+            "options": [
+              "remembered",
+              "forecasted",
+              "received",
+              "imagined"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 48,
+            "question_mark": "<Q48>",
+            "options": [
+              "repair",
+              "risk",
+              "rest",
+              "use"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 49,
+            "question_mark": "<Q49>",
+            "options": [
+              "forbids",
+              "directs",
+              "predicts",
+              "follows"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 50,
+            "question_mark": "<Q50>",
+            "options": [
+              "day",
+              "night",
+              "month",
+              "year"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 51,
+            "question_mark": "<Q51>",
+            "options": [
+              "library",
+              "hall",
+              "square",
+              "street"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 52,
+            "question_mark": "<Q52>",
+            "options": [
+              "appeared",
+              "returned",
+              "faded",
+              "stopped"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 53,
+            "question_mark": "<Q53>",
+            "options": [
+              "driving",
+              "hiding",
+              "camping",
+              "siting"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 54,
+            "question_mark": "<Q54>",
+            "options": [
+              "pictures",
+              "notes",
+              "care",
+              "hold"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 55,
+            "question_mark": "<Q55>",
+            "options": [
+              "new",
+              "full",
+              "flat",
+              "silent"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 56,
+            "question_mark": "<Q56>",
+            "options": [
+              "block",
+              "avoid",
+              "enjoy",
+              "store"
+            ],
+            "answer": 2
+          },
+          {
+            "question_id": 57,
+            "question_mark": "<Q57>",
+            "options": [
+              "Instead",
+              "However",
+              "Gradually",
+              "Similarly"
+            ],
+            "answer": 1
+          },
+          {
+            "question_id": 58,
+            "question_mark": "<Q58>",
+            "options": [
+              "nature-loving",
+              "energy-saving",
+              "weather-beaten",
+              "sun-starved"
+            ],
+            "answer": 3
+          },
+          {
+            "question_id": 59,
+            "question_mark": "<Q59>",
+            "options": [
+              "big",
+              "clear",
+              "cold",
+              "easy"
+            ],
+            "answer": 0
+          },
+          {
+            "question_id": 60,
+            "question_mark": "<Q60>",
+            "options": [
+              "trying",
+              "waiting",
+              "watching",
+              "sharing"
+            ],
+            "answer": 3
+          },
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "第二节",
+    "description": "第二节（共10小题；每小题 1. 5分，满分15分）\n\n阅读下面短文，在空白处填入1个适当的单词或括号内单词的正确形式。",
+    "question_type": "independent-cloze-hint",
+    "content": [
+      {
+        "context": "On our way to the house，it was raining <61> hard that we couldn't help wondering how long it would take <62>（get）there. It was in the middle of Pearl City.\n\nWe were first greeted with the barking by a pack <63> dogs，seven to be exact. They were well trained by their masters <64> had great experience with caring for these animals. Our hosts shared many of their experiences and <65>（recommend）wonderful places to eat，shop，and visit. For breakfast，we were able to eat papaya（木瓜）and other fruits from their trees in the backyard.\n\nWhen they were free from work，they invited us to local events and let us know of an interesting <66>（compete）to watch，together with the story behind it. They also shared with us many <67>（tradition）stories about Hawaii that were <68>（tradition）popular with tourists. On the last day of our week-long stay，we <69>（invite）to attend a private concert on a beautiful farm on the North Shore under the stars，<70>（invite）to musicians and meeting interesting locals.",
+        "questions": [
+          {
+            "question_id": 61,
+            "question_mark": "<Q61>",
+            "hint": null,
+            "answer": "so"
+          },
+          {
+            "question_id": 62,
+            "question_mark": "<Q62>",
+            "hint": "get",
+            "answer": "to get"
+          },
+          {
+            "question_id": 63,
+            "question_mark": "<Q63>",
+            "hint": null,
+            "answer": "of"
+          },
+          {
+            "question_id": 64,
+            "question_mark": "<Q64>",
+            "hint":null,
+            "answer": "who"
+          },
+          {
+            "question_id": 65,
+            "question_mark": "<Q65>",
+            "hint": "recommend",
+            "answer": "recommended"
+          },
+          {
+            "question_id": 66,
+            "question_mark": "<Q66>",
+            "hint": "compete",
+            "answer": "competition"
+          },
+          {
+            "question_id": 67,
+            "question_mark": "<Q67>",
+            "hint": "tradition",
+            "answer": "traditional"
+          },
+          {
+            "question_id": 68,
+            "question_mark": "<Q68>",
+            "hint": "tradition",
+            "answer": "hugely"
+          },
+          {
+            "question_id": 69,
+            "question_mark": "<Q69>",
+            "hint": "invite",
+            "answer": "were"
+          },
+          {
+            "question_id": 70,
+            "question_mark": "<Q70>",
+            "hint": "invite",
+            "answer": "listening"
+          }
+        ]
+      }
+    ]
+  }
+]
